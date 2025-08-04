@@ -6,7 +6,7 @@ A sleek and interactive machine learning web app that predicts salaries based on
 
 ## 🚀 Live Demo
 
-Coming soon – you can run it locally in Colab or deploy on Hugging Face Spaces or your own server.
+![App](https://github.com/Tanmay1112004/salary-prediction-slr-app/blob/main/Salary%20price%20prediction%20app/screenshot%20and%20app%20demo/Screenshot%202025-08-04%20215646.png?raw=true)
 
 ---
 
