@@ -36,6 +36,3 @@ salary-prediction-slr-app/
 ├── app.ipynb # Main Gradio notebook (Colab compatible)
 ├── README.md # This file
 
-
-## 🏗️ Project Structure
-
